@@ -1,0 +1,16 @@
+1) Also, you need to set up a React Environment, and choose a build tool.
+   When you have Node.js installed, you can start creating a React application by choosing a build tool.
+   npm install -g create-vite
+
+2) Create a React Application
+   Run this command to create a React application named my-react-app:
+   npm create vite@latest my-react-app -- --template react
+
+3) Install Dependencies
+   navigate to your new react application directory:
+   cd my-react-app
+   npm install
+
+4) Run the React Application
+   run the React application my-react-app:
+   npm run dev
